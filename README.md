@@ -9,7 +9,7 @@
 <br/>
 
 [![Feishu Wiki](https://img.shields.io/badge/📚_开源知识库-飞书Wiki-7c3aed?style=for-the-badge)](https://my.feishu.cn/wiki/OhQ8wqntFihcI1kWVDlcNdpznFf)
-&nbsp;&nbsp;
+&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=KimYx0207&style=for-the-badge&color=7c3aed&label=VISITORS)
 
 </div>
@@ -19,10 +19,6 @@
 <!-- ========== ABOUT ME ========== -->
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -36,21 +32,13 @@ superpower: Vibe Coding
 motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 ```
 
-</td>
-<td width="50%" valign="top">
+🎮 主营音舞游戏研发，创业 15 年老兵 &nbsp;·&nbsp;
+🤖 因热爱 AI 而开启 AIGC 探索之旅 &nbsp;·&nbsp;
+🎯 信奉「一个人 + AI = 一支完整团队」
 
-### ⚡ Quick Facts
-
-- 🎮 主营音舞游戏研发，创业 15 年老兵
-- 🤖 因热爱 AI 而开启 AIGC 探索之旅
-- 🎯 信奉「一个人 + AI = 一支完整团队」
-- 🛠️ 一指禅 Vibe Coder，AI 就是我的双手
-- 📚 维护开源 AIGC 知识库，乐于分享
-- 🎵 做过的游戏让千万玩家跳起来
-
-</td>
-</tr>
-</table>
+🛠️ 一指禅 Vibe Coder，AI 就是我的双手 &nbsp;·&nbsp;
+📚 维护开源 AIGC 知识库，乐于分享 &nbsp;·&nbsp;
+🎵 做过的游戏让千万玩家跳起来
 
 </div>
 
@@ -66,46 +54,22 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="25%">
+![劲舞时代](https://img.shields.io/badge/🕺_劲舞时代-7c3aed?style=for-the-badge)
+&nbsp;
+![心动劲舞团](https://img.shields.io/badge/💃_心动劲舞团-7c3aed?style=for-the-badge)
+&nbsp;
+![AU Beat](https://img.shields.io/badge/🎵_AU_Beat-7c3aed?style=for-the-badge)
+&nbsp;
+![Party Masters](https://img.shields.io/badge/🎉_Party_Masters-7c3aed?style=for-the-badge)
+
 <br/>
-<img src="https://img.shields.io/badge/🕺_劲舞时代-7c3aed?style=for-the-badge" />
-<br/><br/>
-<sub>音舞竞技手游 · 经典之作</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/🇨🇳_🇻🇳_🇮🇩-多国上线-a78bfa?style=flat-square" />
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/💃_心动劲舞团-7c3aed?style=for-the-badge" />
-<br/><br/>
-<sub>经典 IP 续作 · 全新体验</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/🇨🇳_🇲🇾_🇸🇬-多国上线-a78bfa?style=flat-square" />
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/🎵_AU_Beat-7c3aed?style=for-the-badge" />
-<br/><br/>
-<sub>海外音舞手游 · 东南亚爆款</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/🇻🇳_🇮🇩_🇵🇭-海外发行-a78bfa?style=flat-square" />
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/🎉_Party_Masters-7c3aed?style=for-the-badge" />
-<br/><br/>
-<sub>派对竞技游戏 · 欢乐社交</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/🌏-全球发行-a78bfa?style=flat-square" />
-<br/><br/>
-</td>
-</tr>
-</table>
+
+![China](https://img.shields.io/badge/🇨🇳_中国-a78bfa?style=flat-square)
+![Vietnam](https://img.shields.io/badge/🇻🇳_越南-a78bfa?style=flat-square)
+![Indonesia](https://img.shields.io/badge/🇮🇩_印尼-a78bfa?style=flat-square)
+![Malaysia](https://img.shields.io/badge/🇲🇾_马来西亚-a78bfa?style=flat-square)
+![Singapore](https://img.shields.io/badge/🇸🇬_新加坡-a78bfa?style=flat-square)
+![Philippines](https://img.shields.io/badge/🇵🇭_菲律宾-a78bfa?style=flat-square)
 
 </div>
 
@@ -142,42 +106,16 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**💻 AI 编程**
-
-<br/>
+**💻 AI 编程** &nbsp;&nbsp;&nbsp; **🤖 智能体** &nbsp;&nbsp;&nbsp; **🎨 创作工具**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**🤖 智能体**
-
-<br/>
-
 ![Coze](https://img.shields.io/badge/Coze-4285F4?style=for-the-badge)
 ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge)
 ![N8n](https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-**🎨 创作工具**
-
-<br/>
-
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-22C55E?style=for-the-badge)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000?style=for-the-badge)
 ![Suno](https://img.shields.io/badge/Suno-FF6B6B?style=for-the-badge)
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -191,19 +129,11 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KimYx0207&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<a href="https://github.com/KimYx0207">
+  <img src="https://streak-stats.demolab.com/?user=KimYx0207&theme=midnight-purple&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KimYx0207&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=7c3aed&icon_color=a78bfa&title_color=c084fc&text_color=c9d1d9" />
-&nbsp;&nbsp;
-<img height="180" src="https://streak-stats.demolab.com/?user=KimYx0207&theme=midnight-purple&hide_border=true&background=0d1117" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KimYx0207&theme=github-compact&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=7c3aed" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KimYx0207/KimYx0207/output/github-snake-dark.svg" />
@@ -232,8 +162,8 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 <br/>
 
 ```
-         🎮                    🤖                    🚀
-    Game Producer    ×    AI Explorer    =    Infinite Possibilities
+      🎮                   🤖                   🚀
+ Game Producer    ×   AI Explorer    =   Infinite Possibilities
 ```
 
 <br/>
