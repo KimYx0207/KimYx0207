@@ -161,10 +161,7 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 
 <br/>
 
-```
-      🎮                   🤖                   🚀
- Game Producer    ×   AI Explorer    =   Infinite Possibilities
-```
+`🎮 Game Producer  ×  🤖 AI Explorer  =  🚀 Infinite Possibilities`
 
 <br/>
 
