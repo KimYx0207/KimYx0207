@@ -24,8 +24,8 @@
 
 ```yaml
 name: KimYx
-identity: 游戏研发公司创始人 / AIGC 爱好者
-career: 产品经理 → 游戏制作人 → AI 探索者
+identity: 游戏研发公司联合创始人 / AIGC 爱好者
+career: 游戏策划 → 游戏主策 → 游戏制作人 → AI 探索者
 experience: 15+ years in game industry
 markets: 🇨🇳 🇻🇳 🇮🇩 🇲🇾 🇸🇬 🇵🇭
 superpower: Vibe Coding
