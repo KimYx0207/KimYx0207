@@ -106,6 +106,8 @@
 **💻 AI 编程** &nbsp;&nbsp;&nbsp; **🤖 智能体** &nbsp;&nbsp;&nbsp; **🎨 创作工具**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Coze](https://img.shields.io/badge/Coze-4285F4?style=for-the-badge)
 ![Dify](https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge)
