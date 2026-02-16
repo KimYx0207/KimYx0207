@@ -13,11 +13,29 @@
 
 <br/>
 
+<!-- ========== ABOUT ME ========== -->
+
 <div align="center">
 
-[![Feishu Wiki](https://img.shields.io/badge/📚_开源知识库-飞书Wiki-7c3aed?style=for-the-badge)](https://my.feishu.cn/wiki/OhQ8wqntFihcI1kWVDlcNdpznFf)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=KimYx0207&style=for-the-badge&color=7c3aed&label=VISITORS)
+### 🧑‍💻 About Me
+
+```yaml
+name: KimYx
+identity: 游戏研发公司联合创始人 / AIGC 爱好者
+career: 游戏策划 → 游戏主策 → 游戏制作人 → AI 探索者
+experience: 15+ years in game industry
+markets: 🇨🇳 🇻🇳 🇮🇩 🇲🇾 🇸🇬 🇵🇭
+superpower: Vibe Coding
+motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
+```
+
+🎮 主营音舞游戏研发，创业 15 年老兵 &nbsp;·&nbsp;
+🤖 因热爱 AI 而开启 AIGC 探索之旅 &nbsp;·&nbsp;
+🎯 信奉「一个人 + AI = 一支完整团队」
+
+🛠️ 一指禅 Vibe Coder，AI 就是我的双手 &nbsp;·&nbsp;
+📚 维护开源 AIGC 知识库，乐于分享 &nbsp;·&nbsp;
+🎵 做过的游戏让千万玩家跳起来
 
 </div>
 
@@ -25,18 +43,6 @@
 
 <div align="center">
   <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
 <br/>
@@ -95,6 +101,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
 <!-- ========== AI TOOLBOX ========== -->
 
 <div align="center">
@@ -137,32 +149,9 @@
 
 <br/>
 
-<!-- ========== ABOUT ME ========== -->
-
-<details>
-<summary><strong>🧑‍💻 More about me</strong></summary>
-
-<br/>
-
-```yaml
-name: KimYx
-identity: 游戏研发公司联合创始人 / AIGC 爱好者
-career: 游戏策划 → 游戏主策 → 游戏制作人 → AI 探索者
-experience: 15+ years in game industry
-markets: 🇨🇳 🇻🇳 🇮🇩 🇲🇾 🇸🇬 🇵🇭
-superpower: Vibe Coding
-motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
-```
-
-🎮 主营音舞游戏研发，创业 15 年老兵 &nbsp;·&nbsp;
-🤖 因热爱 AI 而开启 AIGC 探索之旅 &nbsp;·&nbsp;
-🎯 信奉「一个人 + AI = 一支完整团队」
-
-🛠️ 一指禅 Vibe Coder，AI 就是我的双手 &nbsp;·&nbsp;
-📚 维护开源 AIGC 知识库，乐于分享 &nbsp;·&nbsp;
-🎵 做过的游戏让千万玩家跳起来
-
-</details>
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
 
 <br/>
 
@@ -190,17 +179,13 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 
 <br/>
 
-<!-- ========== PHILOSOPHY ========== -->
+<!-- ========== PHILOSOPHY & CONNECT ========== -->
 
 <div align="center">
 
 ### 💡 Philosophy
 
-<br/>
-
 > *"我不是程序员，但我用 AI 让想法变成现实。"*
->
-> *"白天是游戏制作人，晚上是 AI 探索者。"*
 >
 > *"产品思维 × AI 能力 = 无限可能。"*
 
@@ -219,6 +204,8 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 <br/>
 
 [![Feishu Wiki](https://img.shields.io/badge/📚_AIGC_开源知识库-点击访问-7c3aed?style=for-the-badge)](https://my.feishu.cn/wiki/OhQ8wqntFihcI1kWVDlcNdpznFf)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=KimYx0207&style=for-the-badge&color=7c3aed&label=VISITORS)
 
 <br/>
 
