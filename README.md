@@ -2,11 +2,7 @@
 <!-- Run `python -m generator.main` locally or let the workflow handle it -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/galaxy-header.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg" />
-    <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-  </picture>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
@@ -46,11 +42,7 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/stats-card.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/stats-card-light.svg" />
-    <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-  </picture>
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 <br/>
@@ -110,11 +102,7 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/tech-stack.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/tech-stack-light.svg" />
-    <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-  </picture>
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 <br/>
@@ -162,11 +150,7 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/projects-constellation.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/projects-constellation-light.svg" />
-    <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-  </picture>
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
 <br/>

@@ -32,19 +32,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m generator.main
 
-      - name: Generate light-mode SVGs
-        run: |
-          cd assets/generated
-          for file in galaxy-header stats-card tech-stack projects-constellation; do
-            sed -e 's/#0d1117/#faf5ff/g' \
-                -e 's/#1a1040/#f5f3ff/g' \
-                -e 's/#2d1b69/#ddd6fe/g' \
-                -e 's/#e9d5ff/#1e1b4b/g' \
-                -e 's/#c4b5fd/#4c1d95/g' \
-                -e 's/#a78bfa/#6d28d9/g' \
-                "${file}.svg" > "${file}-light.svg"
-          done
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
