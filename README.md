@@ -1,12 +1,19 @@
-<!-- ========== HEADER BANNER ========== -->
+<!-- Galaxy Profile README — Auto-generated SVGs by github-actions -->
+<!-- Run `python -m generator.main` locally or let the workflow handle it -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1040,60:7c3aed,100:a78bfa&height=220&section=header&text=KimYx&fontSize=80&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Game%20Producer%20%20%7C%20%20AIGC%20Explorer%20%20%7C%20%20Vibe%20Coder&descSize=18&descColor=c4b5fd&descAlignY=55" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%8E%AE+15%2B+%E5%B9%B4%E6%B8%B8%E6%88%8F%E7%A0%94%E5%8F%91+%C2%B7+%E9%9F%B3%E8%88%9E%E8%B5%9B%E9%81%93%E6%B7%B1%E8%80%95%E8%80%85;%F0%9F%A4%96+%E4%B8%8D%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%BD%86%E8%AE%A9+AI+%E5%B8%AE%E6%88%91%E5%86%99%E5%87%BA%E6%95%B4%E4%B8%AA%E4%B8%96%E7%95%8C;%F0%9F%9A%80+%E4%B8%80%E4%B8%AA%E4%BA%BA+%2B+AI+%3D+%E4%B8%80%E6%94%AF%E5%AE%8C%E6%95%B4%E7%9A%84%E7%A0%94%E5%8F%91%E5%9B%A2%E9%98%9F" alt="Typing SVG" /></a>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
 <br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%F0%9F%8E%AE+15%2B+%E5%B9%B4%E6%B8%B8%E6%88%8F%E7%A0%94%E5%8F%91+%C2%B7+%E9%9F%B3%E8%88%9E%E8%B5%9B%E9%81%93%E6%B7%B1%E8%80%95%E8%80%85;%F0%9F%A4%96+%E4%B8%8D%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%BD%86%E8%AE%A9+AI+%E5%B8%AE%E6%88%91%E5%86%99%E5%87%BA%E6%95%B4%E4%B8%AA%E4%B8%96%E7%95%8C;%F0%9F%9A%80+%E4%B8%80%E4%B8%AA%E4%BA%BA+%2B+AI+%3D+%E4%B8%80%E6%94%AF%E5%AE%8C%E6%95%B4%E7%9A%84%E7%A0%94%E5%8F%91%E5%9B%A2%E9%98%9F" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+
+<div align="center">
 
 [![Feishu Wiki](https://img.shields.io/badge/📚_开源知识库-飞书Wiki-7c3aed?style=for-the-badge)](https://my.feishu.cn/wiki/OhQ8wqntFihcI1kWVDlcNdpznFf)
 &nbsp;
@@ -16,30 +23,20 @@
 
 <br/>
 
-<!-- ========== ABOUT ME ========== -->
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
+
+<br/>
 
 <div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
 
-### 🧑‍💻 About Me
+<br/>
 
-```yaml
-name: KimYx
-identity: 游戏研发公司联合创始人 / AIGC 爱好者
-career: 游戏策划 → 游戏主策 → 游戏制作人 → AI 探索者
-experience: 15+ years in game industry
-markets: 🇨🇳 🇻🇳 🇮🇩 🇲🇾 🇸🇬 🇵🇭
-superpower: Vibe Coding
-motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
-```
-
-🎮 主营音舞游戏研发，创业 15 年老兵 &nbsp;·&nbsp;
-🤖 因热爱 AI 而开启 AIGC 探索之旅 &nbsp;·&nbsp;
-🎯 信奉「一个人 + AI = 一支完整团队」
-
-🛠️ 一指禅 Vibe Coder，AI 就是我的双手 &nbsp;·&nbsp;
-📚 维护开源 AIGC 知识库，乐于分享 &nbsp;·&nbsp;
-🎵 做过的游戏让千万玩家跳起来
-
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
 <br/>
@@ -121,7 +118,36 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 
 <br/>
 
-<!-- ========== GITHUB STATS ========== -->
+<!-- ========== ABOUT ME ========== -->
+
+<details>
+<summary><strong>🧑‍💻 More about me</strong></summary>
+
+<br/>
+
+```yaml
+name: KimYx
+identity: 游戏研发公司联合创始人 / AIGC 爱好者
+career: 游戏策划 → 游戏主策 → 游戏制作人 → AI 探索者
+experience: 15+ years in game industry
+markets: 🇨🇳 🇻🇳 🇮🇩 🇲🇾 🇸🇬 🇵🇭
+superpower: Vibe Coding
+motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
+```
+
+🎮 主营音舞游戏研发，创业 15 年老兵 &nbsp;·&nbsp;
+🤖 因热爱 AI 而开启 AIGC 探索之旅 &nbsp;·&nbsp;
+🎯 信奉「一个人 + AI = 一支完整团队」
+
+🛠️ 一指禅 Vibe Coder，AI 就是我的双手 &nbsp;·&nbsp;
+📚 维护开源 AIGC 知识库，乐于分享 &nbsp;·&nbsp;
+🎵 做过的游戏让千万玩家跳起来
+
+</details>
+
+<br/>
+
+<!-- ========== GITHUB ACTIVITY ========== -->
 
 <div align="center">
 
@@ -179,11 +205,8 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 
 ---
 
-<sub>🔥 Powered by Vibe Coding &nbsp;|&nbsp; Built with AI, Driven by Product Thinking &nbsp;|&nbsp; One Person + AI = One Team</sub>
+<sub>🔥 Powered by Vibe Coding &nbsp;|&nbsp; Galaxy Profile by <a href="https://github.com/vinimlo/galaxy-profile">galaxy-profile</a> &nbsp;|&nbsp; One Person + AI = One Team</sub>
 
 <br/>
 
 </div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:1a1040,100:0d1117&height=120&section=footer" />
