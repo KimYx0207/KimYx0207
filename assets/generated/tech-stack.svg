@@ -16,17 +16,17 @@
 
     <g transform="translate(30, 65)">
       <text x="0" y="0" fill="#c4b5fd" font-size="11" font-family="sans-serif" dominant-baseline="middle">Python</text>
-      <rect x="110" y="-6" width="194.4" height="12" rx="3" fill="#3572A5" opacity="0.85">
-        <animate attributeName="width" from="0" to="194.4" dur="0.8s" begin="0.0s" fill="freeze"/>
+      <rect x="110" y="-6" width="194.6" height="12" rx="3" fill="#3572A5" opacity="0.85">
+        <animate attributeName="width" from="0" to="194.6" dur="0.8s" begin="0.0s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#a78bfa" font-size="10" font-family="monospace" dominant-baseline="middle">97.2%</text>
+      <text x="320" y="0" fill="#a78bfa" font-size="10" font-family="monospace" dominant-baseline="middle">97.3%</text>
     </g>
     <g transform="translate(30, 87)">
       <text x="0" y="0" fill="#c4b5fd" font-size="11" font-family="sans-serif" dominant-baseline="middle">JavaScript</text>
-      <rect x="110" y="-6" width="5.6" height="12" rx="3" fill="#f1e05a" opacity="0.85">
-        <animate attributeName="width" from="0" to="5.6" dur="0.8s" begin="0.1s" fill="freeze"/>
+      <rect x="110" y="-6" width="5.4" height="12" rx="3" fill="#f1e05a" opacity="0.85">
+        <animate attributeName="width" from="0" to="5.4" dur="0.8s" begin="0.1s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#a78bfa" font-size="10" font-family="monospace" dominant-baseline="middle">2.8%</text>
+      <text x="320" y="0" fill="#a78bfa" font-size="10" font-family="monospace" dominant-baseline="middle">2.7%</text>
     </g>
 
     <circle cx="637" cy="140" r="22" fill="none" stroke="#a78bfa" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.25"/>
