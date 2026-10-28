@@ -5,6 +5,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-assets-main
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions:
@@ -13,18 +17,34 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: KimYx0207
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            assets/generated/github-snake.svg
+            assets/generated/github-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- assets/generated/github-snake.svg assets/generated/github-snake-dark.svg
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: update snake SVGs [skip ci]"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
+          echo "::error::Could not push generated snake SVGs after 3 attempts"
+          exit 1

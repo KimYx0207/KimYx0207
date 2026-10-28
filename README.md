@@ -170,9 +170,9 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KimYx0207/KimYx0207/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KimYx0207/KimYx0207/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KimYx0207/KimYx0207/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/github-snake.svg" />
+  <img alt="github-snake" src="./assets/generated/github-snake-dark.svg" />
 </picture>
 
 </div>
