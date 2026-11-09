@@ -1,0 +1,30 @@
+name: Update total stars badge
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sum stars and update stars.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          total=$(gh api "users/KimYx0207/repos?per_page=100&type=owner" --paginate --jq '[.[] | select(.fork == false) | .stargazers_count] | add')
+          printf '{"schemaVersion": 1, "label": "TOTAL STARS", "message": "%s", "color": "7c3aed"}\n' "$total" > stars.json
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet stars.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add stars.json
+            git commit -m "Update total stars badge"
+            git push
+          fi
