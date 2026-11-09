@@ -206,9 +206,12 @@ motto: 用产品思维驾驭 AI，用 AI 重新定义游戏
 [![Feishu Wiki](https://img.shields.io/badge/📚_AIGC_开源知识库-点击访问-7c3aed?style=for-the-badge)](https://my.feishu.cn/wiki/OhQ8wqntFihcI1kWVDlcNdpznFf)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=KimYx0207&style=for-the-badge&color=7c3aed&label=VISITORS)
+&nbsp;
+![Total Stars](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FKimYx0207%2FKimYx0207%2Fmain%2Fstars.json&style=for-the-badge)
 
 <br/>
 
+&nbsp;
 ---
 
 <sub>🔥 Powered by Vibe Coding &nbsp;|&nbsp; Galaxy Profile by <a href="https://github.com/vinimlo/galaxy-profile">galaxy-profile</a> &nbsp;|&nbsp; One Person + AI = One Team</sub>
